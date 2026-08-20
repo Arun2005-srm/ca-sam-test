@@ -37,8 +37,8 @@ For multi-class masks, create a foreground union first. This keeps the first exp
 ### 1. Clone and install
 
 ```bash
-!git clone <YOUR_REPOSITORY_URL>
-%cd <YOUR_REPOSITORY_DIRECTORY>
+!git clone <REPOSITORY_URL>
+%cd <REPOSITORY_DIRECTORY>
 !pip install -r requirements.txt
 ```
 
